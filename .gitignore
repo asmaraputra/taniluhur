@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+
+# Firebase
+.firebase/
+*.log
+firebase-debug.log
+firebase-debug.*.log
+.firebaserc
+
+# File environment
+.env
+.env.local
+
+# Kredensial Google Service
+serviceAccountKey.json
+*service-account*.json
